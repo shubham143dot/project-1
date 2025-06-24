@@ -1,10 +1,8 @@
-# project-1
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1.0" />
-  <title>M.SHUBHAM | Portfolio</title>
   <link rel="stylesheet" href="style3.css" />
 </head>
 <body>
@@ -133,3 +131,19 @@
   
 </body>
 </html>
+        <BR>
+         <A href="https://youtube.com/@roll_no_101?si=hyRqCsMAcLVGHsGQ"> @ YOUTUBE</A>
+        <BR>
+            <A href="https://github.com/shubham143dot"> @ GITHUB</A>
+            <BR>
+                <A href="https://www.linkedin.com/in/m-shubham-335614328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"> @ LINKEDIN</A>
+        </p>
+  
+          <BR>
+            <BR>
+                AIM(GOAL) - TO BECOME A SUCESSFUL ENTREPRENEUR IN THE FIELD OF APP DEVELOPMENT.         
+        </p>
+  
+      <button type="submit">Send Message</button>
+  
+ 
